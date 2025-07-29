@@ -6,11 +6,6 @@ Prashant Marathe
 This project is a static, responsive UI clone of the [Razorpay](https://razorpay.com) website.  
 It is built using **HTML** and **Tailwind CSS** to replicate Razorpay's clean and modern interface.
 
-## Demo
-
-You can view the live demo of this project [here](#)  
-*(Replace `#` with your live demo link if you have one)*
-
 ## Features
 
 - Responsive design compatible with various screen sizes  
